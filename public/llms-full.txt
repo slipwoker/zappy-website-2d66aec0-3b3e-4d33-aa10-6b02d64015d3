@@ -2,13 +2,13 @@
 
 Kellermann Medical is a premium private medical practice in Berlin offering a sophisticated blend of conventional medicine and holistic/functional approaches across orthopedics, internal medicine, functional medicine, gynecology, and therapeutic training. The brand positions itself as a medically rigorous yet integrative clinic, emphasizing scientific credibility (E-E-A-T), transparent cost communication, and physician-led authority. The practice concept is structured around thematic silos, AI-search optimization (GEO/AEO), and a strong trust architecture — differentiating itself from competitors through clear navigation, deep content expertise, and visible medical accountability on every page.
 
-Source: https://example.com
+Source: https://kellermann-medical.zappy5.app
 
 ---
 
 ## Ihre Gesundheit neu gedacht — Kellermann Medical
 
-URL: https://example.com
+URL: https://kellermann-medical.zappy5.app
 Description: Privatärztliche Praxis in Berlin für integrative Medizin: Orthopädie, Gynäkologie, Innere Medizin &amp; funktionelles Training. Wissenschaftlich fundiert, ganzheitlich wirksam. Jetzt entdecken!
 
 Ihre Gesundheit neu gedacht — Kellermann Medical
@@ -120,6 +120,7 @@ Therapeutisches Training
 
 
 
+
 Unsere Fachbereiche
 
 ## Unsere medizinischen Spezialgebiete.
@@ -153,8 +154,6 @@ Mehr erfahren
 
 
 
-
-
 ### Chirurgie & Unfallversorgung
 
 
@@ -162,8 +161,6 @@ Minimalinvasive operative Eingriffe und umfassende Nachsorge nach Unfällen — 
 
 
 Mehr erfahren
-
-
 
 
 
@@ -187,8 +184,6 @@ Mehr erfahren
 
 
 
-
-
 ### Funktionelle Medizin
 
 
@@ -196,8 +191,6 @@ Systemische Ursachenforschung statt reiner Symptombehandlung — laborbasierte S
 
 
 Mehr erfahren
-
-
 
 
 
@@ -221,8 +214,6 @@ Mehr erfahren
 
 
 
-
-
 ### Training & Bewegung
 
 
@@ -230,8 +221,6 @@ Medizinisch fundiertes Funktionstraining und individuelle Bewegungsprogramme —
 
 
 Mehr erfahren
-
-
 
 
 
@@ -548,7 +537,7 @@ Erstellt von Zappy
 
 ## Exzellenz, der Sie vertrauen können — Kellermann Medical
 
-URL: https://example.com/praxis/
+URL: https://kellermann-medical.zappy5.app/praxis/
 Description: Lernen Sie unser Ärzteteam und unsere Praxisphilosophie kennen: Medizinische Spitzenleistung, transparente Kosten &amp; persönliche Betreuung im Herzen Berlins. Vereinbaren Sie Ihren Termin!
 
 Exzellenz, der Sie vertrauen können — Kellermann Medical
@@ -1034,7 +1023,7 @@ Erstellt von Zappy
 
 ## Präzision trifft ganzheitliche Heilkunst — Kellermann Medical
 
-URL: https://example.com/fachbereiche/
+URL: https://kellermann-medical.zappy5.app/fachbereiche/
 Description: Unsere Fachgebiete: Von moderner Orthopädie über funktionelle Gynäkologie bis zur internistischen Diagnostik. Evidenzbasierte Medizin ohne Denkverbote. Jetzt Fachbereich wählen!
 
 Präzision trifft ganzheitliche Heilkunst — Kellermann Medical
@@ -1571,7 +1560,7 @@ Erstellt von Zappy
 
 ## Ihr Zeitplan, unsere Expertise — Kellermann Medical
 
-URL: https://example.com/sprechstunden/
+URL: https://kellermann-medical.zappy5.app/sprechstunden/
 Description: Flexible Sprechstunden für Berufstätige &amp; Privatpatienten: Online-Buchung, kurze Wartezeiten &amp; ausführliche Gespräche. Finden Sie jetzt Ihren Wunschtermin in Berlin!
 
 Ihr Zeitplan, unsere Expertise — Kellermann Medical
@@ -2228,7 +2217,7 @@ Erstellt von Zappy
 
 ## Medizinisches Wissen, das Sie weiterbringt — Kellermann Medical
 
-URL: https://example.com/ratgeber/
+URL: https://kellermann-medical.zappy5.app/ratgeber/
 Description: Unser Ratgeber: Verständliche Fachartikel zu Hyaluronsäure, Perioraler Dermatitis &amp; ganzheitlicher Gesundheit. Fundiertes Wissen für Ihre informierte Entscheidung. Jetzt lesen!
 
 Medizinisches Wissen, das Sie weiterbringt — Kellermann Medical
@@ -2732,7 +2721,7 @@ Erstellt von Zappy
 
 ## Der direkte Draht zu Ihrer Gesundheit — Kellermann Medical
 
-URL: https://example.com/kontakt/
+URL: https://kellermann-medical.zappy5.app/kontakt/
 Description: Nehmen Sie Kontakt auf: Ob Terminvereinbarung, Rückrufservice oder Anfahrt zur Praxis in Berlin. Wir antworten schnell &amp; persönlich. Starten Sie jetzt Ihr Gesundheitsgespräch!
 
 Der direkte Draht zu Ihrer Gesundheit — Kellermann Medical
@@ -3177,7 +3166,7 @@ Erstellt von Zappy
 
 ## Privacy Policy
 
-URL: https://example.com/privacy
+URL: https://kellermann-medical.zappy5.app/privacy
 Description: Our privacy policy - how we collect, use, and protect your information
 
 Privacy Policy
@@ -3433,7 +3422,7 @@ Erstellt von Zappy
 
 ## Accessibility Statement
 
-URL: https://example.com/accessibility
+URL: https://kellermann-medical.zappy5.app/accessibility
 Description: Our accessibility statement - our commitment to digital accessibility
 
 Accessibility Statement
@@ -3698,7 +3687,7 @@ Erstellt von Zappy
 
 ## Terms & Conditions
 
-URL: https://example.com/terms
+URL: https://kellermann-medical.zappy5.app/terms
 Description: Terms of service - user rights and obligations
 
 Terms & Conditions
@@ -3982,7 +3971,7 @@ Erstellt von Zappy
 
 ## Vielen Dank für Ihre Nachricht | Kellermann Medical
 
-URL: https://example.com/kontakt/thank-you
+URL: https://kellermann-medical.zappy5.app/kontakt/thank-you
 Description: Vielen Dank für Ihre Kontaktaufnahme. Ihre Nachricht ist erfolgreich bei uns eingegangen und wir werden uns in Kürze bei Ihnen melden.
 
 Vielen Dank für Ihre Nachricht | Kellermann Medical

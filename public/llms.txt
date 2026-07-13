@@ -7,45 +7,45 @@
 ## Pages
 
 ### Startseite
-https://example.com
+https://kellermann-medical.zappy5.app
 Privatärztliche Praxis in Berlin für integrative Medizin: Orthopädie, Gynäkologie, Innere Medizin &amp; funktionelles Training. Wissenschaftlich fundiert, ganzheitlich wirksam. Jetzt entdecken!
 
 ### Praxis
-https://example.com/praxis/
+https://kellermann-medical.zappy5.app/praxis/
 Lernen Sie unser Ärzteteam und unsere Praxisphilosophie kennen: Medizinische Spitzenleistung, transparente Kosten &amp; persönliche Betreuung im Herzen Berlins. Vereinbaren Sie Ihren Termin!
 
 ### Fachgebiete
-https://example.com/fachbereiche/
+https://kellermann-medical.zappy5.app/fachbereiche/
 Unsere Fachgebiete: Von moderner Orthopädie über funktionelle Gynäkologie bis zur internistischen Diagnostik. Evidenzbasierte Medizin ohne Denkverbote. Jetzt Fachbereich wählen!
 
 ### Sprechstunden
-https://example.com/sprechstunden/
+https://kellermann-medical.zappy5.app/sprechstunden/
 Flexible Sprechstunden für Berufstätige &amp; Privatpatienten: Online-Buchung, kurze Wartezeiten &amp; ausführliche Gespräche. Finden Sie jetzt Ihren Wunschtermin in Berlin!
 
 ### Ratgeber
-https://example.com/ratgeber/
+https://kellermann-medical.zappy5.app/ratgeber/
 Unser Ratgeber: Verständliche Fachartikel zu Hyaluronsäure, Perioraler Dermatitis &amp; ganzheitlicher Gesundheit. Fundiertes Wissen für Ihre informierte Entscheidung. Jetzt lesen!
 
 ### Kontakt
-https://example.com/kontakt/
+https://kellermann-medical.zappy5.app/kontakt/
 Nehmen Sie Kontakt auf: Ob Terminvereinbarung, Rückrufservice oder Anfahrt zur Praxis in Berlin. Wir antworten schnell &amp; persönlich. Starten Sie jetzt Ihr Gesundheitsgespräch!
 
 ### Vielen Dank für Ihre Nachricht | Kellermann Medical
-https://example.com/kontakt/thank-you
+https://kellermann-medical.zappy5.app/kontakt/thank-you
 Vielen Dank für Ihre Kontaktaufnahme. Ihre Nachricht ist erfolgreich bei uns eingegangen und wir werden uns in Kürze bei Ihnen melden.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://kellermann-medical.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://kellermann-medical.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://kellermann-medical.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -55,8 +55,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com/kontakt/
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://kellermann-medical.zappy5.app/kontakt/
+- Endpoint: https://kellermann-medical.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -94,6 +94,6 @@ Healthcare / Private Medical Practice
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://kellermann-medical.zappy5.app/sitemap.xml
+- Robots: https://kellermann-medical.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://kellermann-medical.zappy5.app/llms-full.txt
