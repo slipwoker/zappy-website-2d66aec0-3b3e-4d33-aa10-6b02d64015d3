@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kellermann-medical-2d66aec0.zappy5.app</loc>
+    <loc>https://example.com</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://kellermann-medical-2d66aec0.zappy5.app/praxis/</loc>
+    <loc>https://example.com/praxis/</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kellermann-medical-2d66aec0.zappy5.app/fachbereiche/</loc>
+    <loc>https://example.com/fachbereiche/</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kellermann-medical-2d66aec0.zappy5.app/sprechstunden/</loc>
+    <loc>https://example.com/sprechstunden/</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kellermann-medical-2d66aec0.zappy5.app/ratgeber/</loc>
+    <loc>https://example.com/ratgeber/</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kellermann-medical-2d66aec0.zappy5.app/kontakt/</loc>
+    <loc>https://example.com/kontakt/</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kellermann-medical-2d66aec0.zappy5.app/kontakt/thank-you</loc>
+    <loc>https://example.com/kontakt/thank-you</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kellermann-medical-2d66aec0.zappy5.app/privacy</loc>
+    <loc>https://example.com/privacy</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://kellermann-medical-2d66aec0.zappy5.app/terms</loc>
+    <loc>https://example.com/terms</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://kellermann-medical-2d66aec0.zappy5.app/accessibility</loc>
+    <loc>https://example.com/accessibility</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
