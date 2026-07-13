@@ -1,0 +1,99 @@
+# Kellermann Medical — Generative Engine Optimization Map
+
+> Kellermann Medical is a premium private medical practice in Berlin offering a sophisticated blend of conventional medicine and holistic/functional approaches across orthopedics, internal medicine, functional medicine, gynecology, and therapeutic training. The brand positions itself as a medically rigorous yet integrative clinic, emphasizing scientific credibility (E-E-A-T), transparent cost communication, and physician-led authority. The practice concept is structured around thematic silos, AI-search optimization (GEO/AEO), and a strong trust architecture — differentiating itself from competitors through clear navigation, deep content expertise, and visible medical accountability on every page.
+
+---
+
+## Pages
+
+### Startseite
+https://kellermann-medical-2d66aec0.zappy5.app
+Privatärztliche Praxis in Berlin für integrative Medizin: Orthopädie, Gynäkologie, Innere Medizin &amp; funktionelles Training. Wissenschaftlich fundiert, ganzheitlich wirksam. Jetzt entdecken!
+
+### Praxis
+https://kellermann-medical-2d66aec0.zappy5.app/praxis/
+Lernen Sie unser Ärzteteam und unsere Praxisphilosophie kennen: Medizinische Spitzenleistung, transparente Kosten &amp; persönliche Betreuung im Herzen Berlins. Vereinbaren Sie Ihren Termin!
+
+### Fachgebiete
+https://kellermann-medical-2d66aec0.zappy5.app/fachbereiche/
+Unsere Fachgebiete: Von moderner Orthopädie über funktionelle Gynäkologie bis zur internistischen Diagnostik. Evidenzbasierte Medizin ohne Denkverbote. Jetzt Fachbereich wählen!
+
+### Sprechstunden
+https://kellermann-medical-2d66aec0.zappy5.app/sprechstunden/
+Flexible Sprechstunden für Berufstätige &amp; Privatpatienten: Online-Buchung, kurze Wartezeiten &amp; ausführliche Gespräche. Finden Sie jetzt Ihren Wunschtermin in Berlin!
+
+### Ratgeber
+https://kellermann-medical-2d66aec0.zappy5.app/ratgeber/
+Unser Ratgeber: Verständliche Fachartikel zu Hyaluronsäure, Perioraler Dermatitis &amp; ganzheitlicher Gesundheit. Fundiertes Wissen für Ihre informierte Entscheidung. Jetzt lesen!
+
+### Kontakt
+https://kellermann-medical-2d66aec0.zappy5.app/kontakt/
+Nehmen Sie Kontakt auf: Ob Terminvereinbarung, Rückrufservice oder Anfahrt zur Praxis in Berlin. Wir antworten schnell &amp; persönlich. Starten Sie jetzt Ihr Gesundheitsgespräch!
+
+### Vielen Dank für Ihre Nachricht | Kellermann Medical
+https://kellermann-medical-2d66aec0.zappy5.app/kontakt/thank-you
+Vielen Dank für Ihre Kontaktaufnahme. Ihre Nachricht ist erfolgreich bei uns eingegangen und wir werden uns in Kürze bei Ihnen melden.
+
+## Legal & Policy
+
+### Privacy Policy
+https://kellermann-medical-2d66aec0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://kellermann-medical-2d66aec0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://kellermann-medical-2d66aec0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://kellermann-medical-2d66aec0.zappy5.app/kontakt/
+- Endpoint: https://kellermann-medical-2d66aec0.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Kellermann Medical
+Kellermann Medical is a premium private medical practice in Berlin offering a sophisticated blend of conventional medicine and holistic/functional approaches across orthopedics, internal medicine, functional medicine, gynecology, and therapeutic training. The brand positions itself as a medically rigorous yet integrative clinic, emphasizing scientific credibility (E-E-A-T), transparent cost communication, and physician-led authority. The practice concept is structured around thematic silos, AI-search optimization (GEO/AEO), and a strong trust architecture — differentiating itself from competitors through clear navigation, deep content expertise, and visible medical accountability on every page.
+
+## Services/Products
+- Orthopedics (ACP Eigenbluttherapie, Hyaluron, TendoPlus, Akupunktur, Osteopathie)
+- Surgery & Trauma Surgery
+- Internal Medicine (Darmgesundheit, Mikrobiomanalyse, Infusionstherapien)
+- Functional Medicine (INUSpherese, Chelattherapie, Haemo-Laser, Long-/Post-Covid)
+- Gynecology
+- Training & Movement Therapy (Personaltraining, Neuroathletik, Z-Health)
+
+## Target Audience
+- Private patients seeking holistic, integrative, and functional medicine in Berlin
+- Holistic Health Seekers
+- Expat Health-Conscious Professionals
+- Wellness Retreat Enthusiasts
+
+## Industry
+Healthcare / Private Medical Practice
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://kellermann-medical-2d66aec0.zappy5.app/sitemap.xml
+- Robots: https://kellermann-medical-2d66aec0.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://kellermann-medical-2d66aec0.zappy5.app/llms-full.txt
