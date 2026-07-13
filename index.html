@@ -353,10 +353,10 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
 <a class="skip-link" href="#main">Skip to main content</a>
   <nav class="navbar">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
   </button>
@@ -885,12 +885,12 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
   </div>
 </section>
 
-<section data-band-index="1" class="startseite-services-section" data-layout-spec="Startseite-services">
+<section data-band-index="1" class="startseite-services-section" data-layout-spec="Startseite-services" id="startseite-services-section">
   <div class="services-container">
     <!-- Section Header -->
     <div class="services-header">
-      <span class="services-eyebrow">Unsere Fachbereiche</span>
-      <h2 class="services-title">Unsere medizinischen Spezialgebiete.</h2>
+      <p class="zappy-editable"><span class="services-eyebrow">Unsere Fachbereiche</span>
+      </p><h2 class="services-title">Unsere medizinischen Spezialgebiete.</h2>
       <p class="services-intro">
         Kellermann Medical ist in klare Fachsilos gegliedert, sodass Patienten schnell erkennen, welche Disziplin, welcher Konsultationstyp und welcher Behandlungspfad zu ihrem Anliegen passt.
       </p>
@@ -900,7 +900,7 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
     <div class="services-grid">
       
       <!-- Card 1: Orthopädie -->
-      <article class="service-card">
+      <article class="service-card" data-grid-item-index="0">
         <div class="service-icon">
           <svg data-element-type="icon" data-icon-type="svg" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
             <circle cx="16" cy="10" r="3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></circle>
@@ -911,16 +911,16 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
         </div>
         <h3 class="service-card-title">Orthopädie</h3>
         <p class="service-card-desc">Ganzheitliche Diagnostik und Therapie des Bewegungsapparates mit modernsten bildgebenden Verfahren und regenerativen Behandlungsansätzen.</p>
-        <a href="/fachbereiche/orthopaedie" class="service-card-link">
+        <p><a href="/fachbereiche/orthopaedie" class="service-card-link" style="">
           <span>Mehr erfahren</span>
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" data-element-type="icon" data-element-id="icon-1783907135628-fk6yuxmel" data-icon-type="svg" style="cursor: pointer;">
             <path d="M6 4L10 8L6 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
           </svg>
         </a>
-      </article>
+      </p></article>
 
       <!-- Card 2: Chirurgie & Unfallversorgung -->
-      <article class="service-card">
+      <article class="service-card" data-grid-item-index="1">
         <div class="service-icon">
           <svg data-element-type="icon" data-icon-type="svg" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M6 8H26V24H6V8Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -932,16 +932,16 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
         </div>
         <h3 class="service-card-title">Chirurgie &amp; Unfallversorgung</h3>
         <p class="service-card-desc">Minimalinvasive operative Eingriffe und umfassende Nachsorge nach Unfällen — von der Akutversorgung bis zur vollständigen Rehabilitation.</p>
-        <a href="/fachbereiche/chirurgie" class="service-card-link">
+        <p class="zappy-editable"><a href="/fachbereiche/chirurgie" class="service-card-link">
           <span>Mehr erfahren</span>
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" data-element-type="icon" data-element-id="icon-1783907135628-mpp2xjqid" data-icon-type="svg">
             <path d="M6 4L10 8L6 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
           </svg>
         </a>
-      </article>
+      </p></article>
 
       <!-- Card 3: Innere Medizin -->
-      <article class="service-card">
+      <article class="service-card" data-grid-item-index="2">
         <div class="service-icon">
           <svg data-element-type="icon" data-icon-type="svg" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M16 28C22.6274 28 28 22.6274 28 16C28 9.37258 22.6274 4 16 4C9.37258 4 4 9.37258 4 16C4 22.6274 9.37258 28 16 28Z" stroke="currentColor" stroke-width="1.5"></path>
@@ -951,16 +951,16 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
         </div>
         <h3 class="service-card-title">Innere Medizin</h3>
         <p class="service-card-desc">Präzise internistische Abklärung mit Schwerpunkt auf kardiovaskulärer Prävention, Stoffwechseloptimierung und chronischen Entzündungserkrankungen.</p>
-        <a href="/fachbereiche/innere-medizin" class="service-card-link">
+        <p class="zappy-editable"><a href="/fachbereiche/innere-medizin" class="service-card-link">
           <span>Mehr erfahren</span>
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" data-element-type="icon" data-element-id="icon-1783907135628-96dxumlkb" data-icon-type="svg">
             <path d="M6 4L10 8L6 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
           </svg>
         </a>
-      </article>
+      </p></article>
 
       <!-- Card 4: Funktionelle Medizin -->
-      <article class="service-card">
+      <article class="service-card" data-grid-item-index="3">
         <div class="service-icon">
           <svg data-element-type="icon" data-icon-type="svg" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M16 4V8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path>
@@ -973,16 +973,16 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
         </div>
         <h3 class="service-card-title">Funktionelle Medizin</h3>
         <p class="service-card-desc">Systemische Ursachenforschung statt reiner Symptombehandlung — laborbasierte Stoffwechselanalysen, Mikronährstoffdiagnostik und personalisierte Therapiepläne.</p>
-        <a href="/fachbereiche/funktionelle-medizin" class="service-card-link">
+        <p class="zappy-editable"><a href="/fachbereiche/funktionelle-medizin" class="service-card-link">
           <span>Mehr erfahren</span>
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" data-element-type="icon" data-element-id="icon-1783907135628-15cec4qpz" data-icon-type="svg">
             <path d="M6 4L10 8L6 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
           </svg>
         </a>
-      </article>
+      </p></article>
 
       <!-- Card 5: Gynäkologie -->
-      <article class="service-card">
+      <article class="service-card" data-grid-item-index="4">
         <div class="service-icon">
           <svg data-element-type="icon" data-icon-type="svg" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M16 4C11.5817 4 8 7.58172 8 12C8 16.4183 11.5817 20 16 20C20.4183 20 24 16.4183 24 12C24 7.58172 20.4183 4 16 4Z" stroke="currentColor" stroke-width="1.5"></path>
@@ -991,16 +991,16 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
         </div>
         <h3 class="service-card-title">Gynäkologie</h3>
         <p class="service-card-desc">Einfühlsame gynäkologische Betreuung mit integrativem Ansatz — von der Vorsorge über hormonelle Balance bis zur ganzheitlichen Begleitung in allen Lebensphasen.</p>
-        <a href="/fachbereiche/gynaekologie" class="service-card-link">
+        <p class="zappy-editable"><a href="/fachbereiche/gynaekologie" class="service-card-link">
           <span>Mehr erfahren</span>
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" data-element-type="icon" data-element-id="icon-1783907135628-rg1bomulz" data-icon-type="svg">
             <path d="M6 4L10 8L6 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
           </svg>
         </a>
-      </article>
+      </p></article>
 
       <!-- Card 6: Training & Bewegung -->
-      <article class="service-card">
+      <article class="service-card" data-grid-item-index="5">
         <div class="service-icon">
           <svg data-element-type="icon" data-icon-type="svg" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M8 28L12 20L16 24L20 16L24 20L28 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -1010,13 +1010,13 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
         </div>
         <h3 class="service-card-title">Training &amp; Bewegung</h3>
         <p class="service-card-desc">Medizinisch fundiertes Funktionstraining und individuelle Bewegungsprogramme — entwickelt von Physiotherapeuten und Sportmedizinern für nachhaltige Ergebnisse.</p>
-        <a href="/fachbereiche/training" class="service-card-link">
+        <p class="zappy-editable"><a href="/fachbereiche/training" class="service-card-link">
           <span>Mehr erfahren</span>
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" data-element-type="icon" data-element-id="icon-1783907135628-op6vzwh8b" data-icon-type="svg">
             <path d="M6 4L10 8L6 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
           </svg>
         </a>
-      </article>
+      </p></article>
 
     </div>
   </div>
